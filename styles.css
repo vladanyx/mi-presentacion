@@ -32,9 +32,10 @@ h2 {
 }
 #wapp:hover {
   color: blue;
+  text-decoration: underline;
 }
 a {
   text-decoration: none;
   
 }
-/* "text-decoration: none" no me saca el underline del elemto <a>*/
+/* "text-decoration: none" no me saca el underline del elemto <a*/
